@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Izaaq
-- i poopoo in the peepee
-- i peepee in the poopoo
-- all poopoo times are peepee times, but not all peepee times are poopoo times 
-- 📫 How to reach me ...
+- Hi, I’m Izaaq!
+- Final year BSc Computer Science student at King's College London
+- Drummer in a band, Advents. We're on Spotify and Apple Music! 
+- Average food enthusiast 
+- LinkedIn: linkedin.com/in/izaaq-ahmad-izham  
 
 <!---
 Izaaq/Izaaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
