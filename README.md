@@ -1,6 +1,6 @@
 - Hi, I’m Izaaq!
-- Final year BSc Computer Science student at King's College London
-- Drummer in a band, Advents. We're on [Spotify](https://open.spotify.com/artist/2rWhtTCIJfxgWd4oClRj6U?si=KetpuzOgRbaABve1GeiCyg) and [Apple Music](https://music.apple.com/us/artist/advents/1440045685)! 
+- Technical Artist at PlayStation Studios Malaysia
+- A passionate drummer, been at it since 2010!
 - Average food enthusiast. 
 - [LinkedIn](linkedin.com/in/izaaq-ahmad-izham) 
 
