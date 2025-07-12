@@ -1,5 +1,6 @@
 - Hi, I’m Izaaq!
-- Technical Artist at PlayStation Studios Malaysia
+- Technical Artist at Electronic Arts Malaysia
+- Previously worked at PlayStation Studios Malaysia, where I helped shipped Insomniac's Spider-Man 2!
 - A passionate drummer, been at it since 2010!
 - Listen to my band, [Math Class!](https://open.spotify.com/artist/6nKmGG3Wb6d8vLTuUcv91B)
 - Average food enthusiast. 
